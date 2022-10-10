@@ -1,0 +1,7 @@
+@media (max-width: 441px) {
+  body {
+    height: 240px;
+    margin: 0 auto;
+    position: relative;
+  }
+}
