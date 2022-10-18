@@ -37,7 +37,6 @@ var column3Interval;
 var currentCol1;
 var currentCol2;
 var currentCol3;
-
 // Score
 var score = 0;
 
